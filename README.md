@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Fangzhou — AI Engineer. AI agents, LLM applications, and end-to-end software." width="100%" />
+  <img src="assets/header.svg" alt="Fangzhou — Full Stack Engineer. AI agents, LLM applications, and end-to-end software." width="100%" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 | :--- | :--- |
 | 2019–2023 | **BSc in Business Analytics** · School of Computing, National University of Singapore |
 | 2023–2026 | **Software Engineer in FinTech** · 3 years of software engineering experience |
-| 2024–2026 | **Master of Computing, specialising in AI** · School of Computing, National University of Singapore. Completed alongside my software engineering role. |
+| 2024–2026 | **Master of Computing, specialising in AI** · School of Computing, National University of Singapore |
 
 ## Projects
 
@@ -97,6 +97,5 @@ A frontend prototype with a calendar, inventory coverage visualization, and medi
 ---
 
 <p align="center">
-  Interested in <strong>AI Engineer</strong> opportunities.<br />
   <a href="https://www.linkedin.com/in/fangzhou-x-5208b31a1/">Let's connect on LinkedIn →</a>
 </p>
