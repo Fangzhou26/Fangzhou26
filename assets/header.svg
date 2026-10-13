@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Fangzhou — AI Engineer</title><desc id="desc">AI agents, LLM applications, and end-to-end software.</desc>
+<defs><linearGradient id="background" x2="1" y2="1"><stop stop-color="#0d172b"/><stop offset="1" stop-color="#152842"/></linearGradient><linearGradient id="accent"><stop stop-color="#79a7ff"/><stop offset="1" stop-color="#75ddcc"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8ea7c8" stroke-opacity=".07"/></pattern></defs>
+<rect width="1200" height="300" rx="20" fill="url(#background)"/><rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+<rect x="58" y="52" width="36" height="3" rx="1.5" fill="url(#accent)"/>
+<text x="58" y="91" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="3" fill="#b4c6e2">SOFTWARE · INTELLIGENCE · SYSTEMS</text>
+<text x="54" y="160" font-family="Arial,Helvetica,sans-serif" font-size="60" font-weight="700" letter-spacing="-2" fill="#f2f6ff">Fangzhou</text>
+<text x="58" y="201" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#a6c4ff">AI Engineer</text>
+<text x="58" y="246" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#aebed4">AI agents. LLM applications. End-to-end software.</text>
+<g fill="none" stroke="#6e96c9" stroke-width="1.5" stroke-opacity=".35"><circle cx="996" cy="150" r="99"/><circle cx="996" cy="150" r="67" stroke-dasharray="4 9"/><path d="M897 150h198M996 51v198M926 80l140 140M926 220l140-140"/><path d="M815 150h82M1095 150h65" stroke-dasharray="4 6"/></g>
+<g fill="#172f4d" stroke="#80adff" stroke-width="2"><rect x="972" y="126" width="48" height="48" rx="12"/><circle cx="996" cy="51" r="6"/><circle cx="897" cy="150" r="6"/><circle cx="1095" cy="150" r="6"/></g>
+<g fill="#75ddcc"><circle cx="1066" cy="220" r="5"/><circle cx="926" cy="80" r="5"/><circle cx="996" cy="249" r="5"/></g><path d="m988 150 5 5 11-11" stroke="#92e6d7" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>
